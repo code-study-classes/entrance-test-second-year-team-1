@@ -1,2 +1,0 @@
-hello:
-	node main.js
